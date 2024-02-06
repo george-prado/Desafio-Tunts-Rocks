@@ -2,16 +2,12 @@
 
 # Índice
 
-1. [Objetivo do projeto](#objetivo-do-projeto)
-2. [Tecnologias utilizadas](#tecnologias-utilizadas)
-3. [Como utilizar](#como-utilizar)
-   1. [Clone este repositório](#1-clone-este-repositório)
-   2. [Confira o arquivo *client_secrets.json*](#2-confira-o-arquivo-client_secretsjson)
-   3. [Tenha o .NET instalado em sua máquina](#3-tenha-o-net-instalado-em-sua-máquina)
-   4. [Executar o projeto via terminal](#4-executar-o-projeto-via-terminal)
-4. [Vídeo demonstrativo do projeto](#vídeo-demonstrativo-do-projeto)
-5. [Checklist rápida](#checklist-rápida)
-6. [Autor](#autor)
+### 1. [Objetivo do projeto](#objetivo-do-projeto)
+### 2. [Tecnologias utilizadas](#tecnologias-utilizadas)
+### 3. [Como utilizar](#como-utilizar)
+### 4. [Vídeo demonstrativo do projeto](#vídeo-demonstrativo-do-projeto)
+### 5. [Checklist rápida](#checklist-rápida)
+### 6. [Autor](#autor)
 
 ## Objetivo do projeto!
 
@@ -27,7 +23,7 @@ Por ser um desafio com liberdade de escolha da linguagem de programação, optei
 
 ## Como utilizar:
 
-1) Clone este repositório
+ 1. Clone este repositório
 
     Você pode clonar este repositório usando o seguinte comando no terminal:
 
@@ -35,11 +31,11 @@ Por ser um desafio com liberdade de escolha da linguagem de programação, optei
     git clone https://github.com/george-prado/Desafio-Tunts-Rocks.git
     ```
 
-2) Confira se o arquivo *client_secrets.json* consta na pasta do projeto
+ 2. Confira se o arquivo **client_secrets.json** consta na pasta do projeto
 
-3) Confira se o arquivo *client_secrets.json* consta na pasta *bin/Debug/net8.0* dentro do projeto
+ 3. Confira se o arquivo **client_secrets.json** consta na pasta **bin/Debug/net8.0** dentro do projeto
 
-4) Tenha o .NET instalado em sua máquina.
+ 4. Tenha o .NET instalado em sua máquina.
 
     Certifique-se de ter o .NET instalado em sua máquina. Caso contrário, você pode instalá-lo executando o seguinte comando no terminal:
 
@@ -80,22 +76,24 @@ Por ser um desafio com liberdade de escolha da linguagem de programação, optei
     ```
 
     Após isso, basta executar *dotnet run*
+    
     ```bash
     dotnet run
     ```
 
-**Vídeo demonstrativo do projeto**
+## Vídeo demonstrativo do projeto
 
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=biZInLJRUbY" frameborder="0" allowfullscreen></iframe>
+Aqui está um vídeo com o projeto em execução:
+### [Vídeo](https://www.youtube.com/watch?v=biZInLJRUbY)
 
 ## Checklist rápida
-✅ Projeto clonado
+### ✅ Projeto clonado
 
-✅ .NET instalado
+### ✅ .NET instalado
 
-✅ [Planilha](https://docs.google.com/spreadsheets/d/1mws7Gr2MBrlBAYOoicBNQyqcmpXfwuxoVQKa_HfCNkU/edit?usp=sharing) aberta
+### ✅ [Planilha](https://docs.google.com/spreadsheets/d/1mws7Gr2MBrlBAYOoicBNQyqcmpXfwuxoVQKa_HfCNkU/edit?usp=sharing) aberta
 
-✅ *dotnet run*
+### ✅ *dotnet run*
 
 ## Autor
 
@@ -117,16 +115,12 @@ Linkedin: https://www.linkedin.com/in/george-prado-dev
 
 # Table of Contents
 
-1. [Project Objective](#project-objective)
-2. [Technologies Used](#technologies-used)
-3. [How to Use](#how-to-use)
-   1. [Clone this repository](#1-clone-this-repository)
-   2. [Check the *client_secrets.json* file](#2-check-the-client_secretsjson-file)
-   3. [Ensure .NET is installed on your machine](#3-ensure-net-is-installed-on-your-machine)
-   4. [Run the project via terminal](#4-run-the-project-via-terminal)
-4. [Project Demo Video](#project-demo-video)
-5. [Quick Checklist](#quick-checklist)
-6. [Author](#author)
+### 1. [Project Objective](#project-objective)
+### 2. [Technologies Used](#technologies-used)
+### 3. [How to Use](#how-to-use)
+### 4. [Project Demo Video](#project-demo-video)
+### 5. [Quick Checklist](#quick-checklist)
+### 6. [Author](#author)
 
 ## Project Objective
 
@@ -193,14 +187,16 @@ As this is a challenge with the freedom to choose the programming language, I ch
     dotnet run
     ```
 
-**Project Demo Video**
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=biZInLJRUbY" frameborder="0" allowfullscreen></iframe>
+## Project Demo Video
 
-## Checklist rápida
-✅ Repository cloned
-✅ .NET installed
-✅ [Spreadsheet](https://docs.google.com/spreadsheets/d/1mws7Gr2MBrlBAYOoicBNQyqcmpXfwuxoVQKa_HfCNkU/edit?usp=sharing) opened
-✅ *dotnet run*
+Here's a short video demonstration: 
+### [Demo](https://www.youtube.com/watch?v=biZInLJRUbY)
+
+## Quick Checklist
+### ✅ Repository cloned
+### ✅ .NET installed
+### ✅ [Spreadsheet](https://docs.google.com/spreadsheets/d/1mws7Gr2MBrlBAYOoicBNQyqcmpXfwuxoVQKa_HfCNkU/edit?usp=sharing) opened
+### ✅ *dotnet run*
 
 ## Author
 
