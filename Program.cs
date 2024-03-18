@@ -106,8 +106,6 @@
 				var cellRange = $"{sheet}!{columnLetter}{i}";
 				var student = studentList[i - initCell];
 
-				Console.WriteLine($"Coluna {columnLetter}, Célula {i}, Matrícula {student.Id} atualizada.");
-
 				var valueRange = new ValueRange
 				{
 					Values = new List<IList<object>> { new List<object> { valueProvider(student) } }
@@ -119,6 +117,7 @@
 				try
 				{
 					var appendResponse = updateRequest.Execute();
+					Console.WriteLine($"Coluna {columnLetter}, Célula {i}, Matrícula {student.Id} atualizada.");
 				}
 				catch (Exception ex)
 				{
